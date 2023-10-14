@@ -21,7 +21,7 @@ So, what's new in the Socket.IO ecosystem?
 
 Following our focus on tooling, we have published a first release of the Socket.IO Admin UI:
 
-![admin UI screenshot](/images/admin-ui-dashboard.png)
+![admin UI screenshot](/images/admin-ui-dashboard.webp)
 
 This Admin UI is meant to give you an overview of your Socket.IO deployment.
 

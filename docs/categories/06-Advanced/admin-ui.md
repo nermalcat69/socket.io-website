@@ -14,7 +14,7 @@ Link to the hosted version: https://admin.socket.io/
 
 - overview of the servers and the clients that are currently connected
 
-![Screenshot of the dashboard](/images/admin-ui-dashboard.png)
+![Screenshot of the dashboard](/images/admin-ui-dashboard.webp)
 
 - details of each socket instance (active transport, handshake, rooms, ...)
 

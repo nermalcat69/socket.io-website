@@ -14,7 +14,7 @@ Socket.IO 管理 UI 可用于概述 Socket.IO 部署的状态。
 
 - 当前连接的服务器和客户端的概述
 
-![dashboard screenshot](/images/admin-ui-dashboard.png)
+![dashboard screenshot](/images/admin-ui-dashboard.webp)
 
 - 每个socket实例的详细信息（主动传输、握手、房间……）
 
